@@ -1,4 +1,4 @@
-Welcome to the Office Scripts repository! 
+Welcome to the Daily Lifehacks Scripts repository! 
 
 
 This repository is a collection of Python scripts designed to streamline and automate daily office tasks. 
